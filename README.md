@@ -1,4 +1,4 @@
 # Cubieboard5-rootfs
 
 You should get the rootfs from this link :
-http://dl.cubieboard.org/model/cubietruck-plus/source/linux/rootfs/
+mega:#F!A54iBKZZ!HKk2a-Qt3pfQ668woM6Fyw!llomnKyC
